@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Faculdade</string>
+    <string name="action_new">Nova Disciplina</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_update">Alterar</string>
+    <string name="action_delete">Excluir</string>
+</resources>
